@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jan 31 19:45:30 PST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0152-9aef-71fe-0000368ac260 
+on database directory /home/jsarria/PycharmProjects/CMPT733/CMPT733-Assign3/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@139df5a 
+Loaded from file:/home/jsarria/spark-1.6.0-bin-hadoop2.6/lib/spark-assembly-1.6.0-hadoop2.6.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=/home/jsarria/PycharmProjects/CMPT733/CMPT733-Assign3
+os.name=Linux
+os.arch=i386
+os.version=3.19.0-25-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
